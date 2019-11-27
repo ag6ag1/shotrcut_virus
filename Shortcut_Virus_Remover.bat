@@ -70,7 +70,7 @@ echo.
 echo  Cleaning Process Complete.
 echo.
 echo.
-echo  Developed by Eranda.
+echo  Developed by ag6ag.
 echo.
 echo.
 echo.
